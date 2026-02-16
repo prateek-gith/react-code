@@ -1,8 +1,3 @@
-Yeh ek **professional README.md template** hai jo tum GitHub par use kar sakte ho 👇
-Isme yeh show hoga ki tumne React padha hai aur kya-kya seekha hai.
-
----
-
 # 🚀 React Learning Journey
 
 ## 📌 About This Repository
